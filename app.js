@@ -59,3 +59,9 @@ function calculateTotal(){
 
     });
 
+
+    // CHeck out section
+    document.getElementById('check-out').addEventListener('click', function () {    
+
+       console.log(alert('Confirm Payment')); 
+    });
